@@ -1,5 +1,5 @@
 window.onload = function (){
-	let element = document.getElementById("level");
+	let el = document.getElementById("level");
 	let level = 0;
 	while(el) {
 level++
